@@ -1,0 +1,1 @@
+cmd_/home/cristian/Escritorio/SistemasOperativos/Lab4/modules.order := {   echo /home/cristian/Escritorio/SistemasOperativos/Lab4/simple.ko; :; } | awk '!x[$$0]++' - > /home/cristian/Escritorio/SistemasOperativos/Lab4/modules.order

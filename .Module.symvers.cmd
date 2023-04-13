@@ -1,0 +1,1 @@
+cmd_/home/cristian/Escritorio/SistemasOperativos/Lab4/Module.symvers := sed 's/\.ko$$/\.o/' /home/cristian/Escritorio/SistemasOperativos/Lab4/modules.order | scripts/mod/modpost -m -a  -o /home/cristian/Escritorio/SistemasOperativos/Lab4/Module.symvers -e -i Module.symvers   -T -

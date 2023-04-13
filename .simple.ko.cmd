@@ -1,0 +1,1 @@
+cmd_/home/cristian/Escritorio/SistemasOperativos/Lab4/simple.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/cristian/Escritorio/SistemasOperativos/Lab4/simple.ko /home/cristian/Escritorio/SistemasOperativos/Lab4/simple.o /home/cristian/Escritorio/SistemasOperativos/Lab4/simple.mod.o;  true
